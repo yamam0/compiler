@@ -1,0 +1,8 @@
+for(int i=0;i<5;i++){
+if(a>4){
+int q=9;
+}
+else{
+
+}
+}
